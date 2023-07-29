@@ -1,6 +1,6 @@
 # responsive_portfolio
 
-This repository is used for hosting a responsive portfolio page using GitHub pages.
+<p>This repository is used for hosting a responsive portfolio page using GitHub pages.<br>-Projects page still missing </p>
 
 ## Pages link:
 
