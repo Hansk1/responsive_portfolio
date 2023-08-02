@@ -10,3 +10,4 @@ https://hansk1.github.io/responsive_portfolio/
 
 -   ProjectLink: https://github.com/Hansk1/Anytime-Course_Frontend_Project
 -   LearninDiary: https://sway.office.com/ZFcsoP33URiNwnup?ref=Link
+-   Video: https://lut-my.sharepoint.com/:v:/g/personal/hannes_karppinen_student_lut_fi/ESKDWFS2JF9PgAwKiFeJQ0gBMUSPu4p3_MB9dDOrhQpLKQ?e=qGNHOM
