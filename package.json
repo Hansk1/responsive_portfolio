@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive portfolio",
   "main": "index.js",
-  "homepage": "https://Hansk1.github.io/responsive_portfolio",
+  "homepage": "https://hansk1.github.io/responsive_portfolio/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages 0d -d dist"

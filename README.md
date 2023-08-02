@@ -1,6 +1,6 @@
 # responsive_portfolio
 
-<p>This repository is used for hosting a responsive portfolio page using GitHub pages.<br>-Projects page still missing </p>
+<p>This repository is used for hosting a responsive portfolio page using GitHub pages.</p>
 
 ## Pages link:
 
@@ -8,4 +8,5 @@ https://hansk1.github.io/responsive_portfolio/
 
 # Info about the self study course:
 
-<p>-Project link coming soon.<br>-Learning diary coming soon (Needs proofreading)</p>
+-   ProjectLink: https://github.com/Hansk1/Anytime-Course_Frontend_Project
+-   LearninDiary: https://sway.office.com/ZFcsoP33URiNwnup?ref=Link
